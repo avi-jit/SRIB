@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\abc\Documents\srib_FINALS\Using_samsung_remote_sensors\app\libs\chord-v2.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e9577c34d48455c2e642b2689e0fa1d94babc1be">
+        <dex dex="C:\Users\abc\Documents\srib_FINALS\Using_samsung_remote_sensors\app\build\intermediates\pre-dexed\debug\chord-v2.0.0-8a870bcaff07a090c400e2e7fe96574c880505a8.jar" />
+    </item>
+    <item
+        jar="C:\Users\abc\Documents\srib_FINALS\Using_samsung_remote_sensors\app\libs\sdk-v1.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e2ce3786b6e9519934c4a54aaaaf39525bf4486c">
+        <dex dex="C:\Users\abc\Documents\srib_FINALS\Using_samsung_remote_sensors\app\build\intermediates\pre-dexed\debug\sdk-v1.0.0-58ceb78cf6dbac62d47a02b19fd8a8da72d54256.jar" />
+    </item>
+    <item
+        jar="C:\Users\abc\Documents\srib_FINALS\Using_samsung_remote_sensors\app\libs\RemoteSensorSDK_release.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9f4379fce8f01cb61ae8b8e78fda522863542613">
+        <dex dex="C:\Users\abc\Documents\srib_FINALS\Using_samsung_remote_sensors\app\build\intermediates\pre-dexed\debug\RemoteSensorSDK_release-1ce1da88ed00ff4dfd899e9386a1234346460640.jar" />
+    </item>
+
+</items>

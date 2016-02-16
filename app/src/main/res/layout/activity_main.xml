@@ -1,0 +1,21 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="#000">
+<Button
+    android:id="@+id/start_master_button"
+    android:layout_width="130dp"
+    android:layout_height="40dp"
+    android:layout_alignParentTop="true"
+    android:layout_centerHorizontal="true"
+    android:layout_marginTop="70dp"
+    android:text="@string/start_master"
+    android:background="#0F0"
+    android:onClick="initUI"
+     />
+
+
+    
+</RelativeLayout>
